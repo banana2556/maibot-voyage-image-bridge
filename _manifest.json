@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "version": "0.1.0",
+  "id": "banana.voyage-image-bridge",
+  "name": "Voyage 圖片嵌入轉接",
+  "description": "以本機相容端點連接 Voyage 多模態圖片嵌入，不覆寫 MaiBot 核心",
+  "author": {"name": "banana2556", "url": "https://github.com/banana2556"},
+  "license": "MIT",
+  "urls": {"repository": "https://github.com/banana2556/maibot-voyage-image-bridge"},
+  "host_application": {"min_version": "1.3.0", "max_version": "1.3.99"},
+  "sdk": {"min_version": "2.21.0", "max_version": "2.99.99"},
+  "dependencies": [],
+  "capabilities": [],
+  "i18n": {"default_locale": "zh-CN"}
+}
